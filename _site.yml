@@ -3,11 +3,13 @@ output_dir: "."
 navbar:
   title: "My Beautiful Website"
   left:
+    - text: "Home"
+      icon: fa_home
+      herf: index.html
     - text: CV-copy
       herf: CV-copy.html
     - text: "resume"
-      icon: fa-home
-      herf: resume.html_document
+      herf: resume.html
 output:
   html_document:
     theme: journal

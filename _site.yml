@@ -5,7 +5,7 @@ navbar:
   left:
     - text: "resume"
       icon: fa-home
-      herf: html_document
+      herf: resume.html_document
 output:
   html_document:
     theme: journal

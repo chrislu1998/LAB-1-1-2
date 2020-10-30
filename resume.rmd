@@ -1,0 +1,21 @@
+---
+title: "Resumé"
+author: Zijiao Lu
+output: html_document
+---
+
+<center>
+# Zijiao Lu
+</center>
+
+### EDUCATION BACKGROUND
+
+University of California – Los Angeles
+- Bachelor of Arts in Asian Studies
+- 07/2018 – 03/2020
+
+Mount San Antonia College
+- Associate of Arts – Asian Studies
+- 09/2016 – 06/2018
+
+![MY GOOD FILIAL SON](IMG/per-xijinping-01-810459054.jpg)

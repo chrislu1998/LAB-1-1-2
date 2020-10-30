@@ -1,0 +1,11 @@
+name: "first-website"
+output_dir: "."
+navbar:
+  title: "My Beautiful Website"
+  left:
+    - text: "resume"
+      icon: fa-home
+      herf: html_document
+output:
+  html_document:
+    theme: journal
